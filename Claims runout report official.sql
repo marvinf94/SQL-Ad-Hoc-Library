@@ -1,5 +1,5 @@
 use warehouse local_marvinfoster;
-use database prod_cityblockdce_fe;
+use database ;
 
 Create or replace temporary table local_marvinfoster.public.cityblock_claims as 
 ((Select c.org_id as org_id, c.fk_bene_id, c.src_cur_clm_uniq_id,
@@ -83,7 +83,7 @@ UNION ALL
         
 Create or replace temporary table local_marvinfoster.public.cityblock_patient as
 Select distinct pat.fk_patient_id, SUBSTR(pat.month_cd,3,7) as mnth
-from prod_cityblockdce_fe.insights.patient_x_month pat;
+from insights.patient_x_month pat;
         
 Select clm.* --clm.date_of_srv, sum(clm.paid_amt) as Amt 
 from local_marvinfoster.public.cityblock_claims clm 

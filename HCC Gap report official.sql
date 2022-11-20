@@ -16,7 +16,7 @@ drop table if exists local_marvinfoster.PUBLIC.HCC_MAP;
 
 CREATE TEMPORARY TABLE local_marvinfoster.PUBLIC.HCC_MAP as 
 Select distinct HCC, HCC_DESC
-from prod_cityblockdce_fe.insights.hcc_x_patient_year
+from insights.hcc_x_patient_year
 where VERSION = '23'
 and HCC <> 0; 
 
@@ -33,7 +33,7 @@ Select distinct dx.org_id,
     map.hcc_desc,
     Sum(dx.TOT_VISIT_CNT) as Visit_Count, 
     LTRIM(Max(dx.month_cd), 'm-') as Last_Billed
-from prod_cityblockdce_fe.insights.diagnosis_x_patient_month dx 
+from insights.diagnosis_x_patient_month dx 
 join prod_common_fe.REF.CODE_ICD_10_CM icd 
     on LTRIM(dx.fk_diagnosis_id, 'icd_10_cm_cd|') = icd.icd_10_cm_cd
 join local_marvinfoster.public.HCC_temp hcc
@@ -50,7 +50,7 @@ Select distinct dx.fk_patient_id as Patient_ID,
     SUBSTR(dx.month_cd, 3, 4) as Year,
     LTRIM(dx.fk_diagnosis_id, 'icd_10_cm_cd|') as ICD_10_Code, 
     hcc.HCC
-from prod_cityblockdce_fe.insights.diagnosis_x_patient_month dx 
+from insights.diagnosis_x_patient_month dx 
 join prod_common_fe.REF.CODE_ICD_10_CM icd 
     on LTRIM(dx.fk_diagnosis_id, 'icd_10_cm_cd|') = icd.icd_10_cm_cd
 join local_marvinfoster.public.HCC_temp hcc

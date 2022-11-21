@@ -1,5 +1,5 @@
 use warehouse local_marvinfoster;
-use database prod_cityblockdce_fe;
+use database ;
 
 CREATE or replace TEMPORARY TABLE local_marvinfoster.public.HCC_temp as
 select target_1_value as HCC,
@@ -11,7 +11,7 @@ where xref_id in ('year_x_icd9dx_x_hcc','year_x_icd10dx_x_hcc')
 and version = '23';
 
 CREATE or replace TEMPORARY TABLE local_marvinfoster.PUBLIC.HCC_MAP as 
-Select distinct HCC, HCC_DESC()
+Select distinct HCC, HCC_DESC
 from prod_cityblockdce_fe.insights.hcc_x_patient_year
 where VERSION = '23'
 and HCC <> 0;

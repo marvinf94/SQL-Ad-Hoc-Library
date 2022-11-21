@@ -22,7 +22,7 @@ Select distinct SUBSTR(dx.month_cd, 3, 4) as Year,
     Count(distinct dx.fk_patient_id) Count_of_Patients, 
     LTRIM(dx.fk_diagnosis_id, 'icd_10_cm_cd|') as ICD_10_Code, 
     icd.label as ICD_10_Description
-from prod_cityblockdce_fe.insights.diagnosis_x_patient_month dx 
+from insights.diagnosis_x_patient_month dx 
 join prod_common_fe.REF.CODE_ICD_10_CM icd 
     on LTRIM(dx.fk_diagnosis_id, 'icd_10_cm_cd|') = icd.icd_10_cm_cd
 where (dx.month_cd like 'm-2019%' or dx.month_cd like 'm-2020%' or dx.month_cd like 'm-2021%' or dx.month_cd like 'm-2022%')

@@ -12,7 +12,7 @@ and version = '23';
 
 CREATE or replace TEMPORARY TABLE local_marvinfoster.PUBLIC.HCC_MAP as 
 Select distinct HCC, HCC_DESC
-from prod_cityblockdce_fe.insights.hcc_x_patient_year
+from insights.hcc_x_patient_year
 where VERSION = '23'
 and HCC <> 0;
 

@@ -1,18 +1,18 @@
-USE DATABASE PROD_A2024_FE;
+USE DATABASE ;
 USE WAREHOUSE LOCAL_marvinfoster;
 USE ROLE CJ_MS;
 --op therapy
 with
 
-a2024_2021_therapy as (
+therapy as (
 select 
   a.org_id,
   facility_ccn_num, 
   count(distinct a.fk_patient_id) as patients,
   count(*) as claims,
   sum(claim_line_paid_amt) as spend 
-from prod_a2024_fe.insights.activity  a
-left join (select * from prod_a2024_fe.insights.patient_x_month where attribution_type = 'as_is') pxm
+from insights.activity  a
+left join (select * from insights.patient_x_month where attribution_type = 'as_is') pxm
   on pxm.fk_patient_id = a.fk_patient_id
   and a.activity_from_month_cd = pxm.month_cd
 where 
@@ -147,7 +147,7 @@ group by 1,2)
 
 
 op as (
-select * from a2024_2021_therapy)
+select * from therapy)
 
 
 --select distinct org_id from combo
@@ -159,7 +159,7 @@ select
     sum(claims),
     sum(patients),
     sum(spend)
-from combo
+from op
 left join prod_common_fe.od.od_ccn_prvdr_service_reg_201609 ccn
   on ccn.prvdr_num = op.facility_ccn_num
 group by 1,2

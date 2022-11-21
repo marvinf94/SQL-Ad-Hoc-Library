@@ -1,5 +1,5 @@
-USE WAREHOUSE ;
-USE DATABASE ;
+USE WAREHOUSE LOCAL_marvinfoster ;
+USE DATABASE  ;
 
 Select 
 act.FK_provider_primary_ID,

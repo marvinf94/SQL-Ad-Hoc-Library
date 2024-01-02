@@ -1,0 +1,950 @@
+﻿HCPCS_Cd,RBCS_ID,RBCS_Cat,RBCS_Cat_Desc,RBCS_Cat_Subcat,RBCS_Subcat_Desc,RBCS_FamNumb,RBCS_Family_Desc,RBCS_Major_Ind,HCPCS_Cd_Add_Dt,HCPCS_Cd_End_Dt,RBCS_Assignment_Eff_Dt
+0001A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,12/11/2020,12/31/9999,01/01/2017
+0002A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,12/11/2020,12/31/9999,01/01/2017
+0003A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,08/12/2021,12/31/9999,01/01/2017
+0004A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,09/22/2021,12/31/9999,01/01/2017
+0011A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,12/18/2020,12/31/9999,01/01/2017
+0012A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,12/18/2020,12/31/9999,01/01/2017
+0013A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,08/12/2021,12/31/9999,01/01/2017
+0021A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,01/01/2021,01/01/2021,01/01/2017
+0022A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,01/01/2021,01/01/2021,01/01/2017
+0031A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,02/27/2021,12/31/9999,01/01/2017
+0034A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,10/20/2021,12/31/9999,01/01/2017
+0041A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,07/13/2022,12/31/9999,01/01/2017
+0042A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,07/13/2022,12/31/9999,01/01/2017
+0051A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,01/03/2022,12/31/9999,01/01/2017
+0052A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,01/03/2022,12/31/9999,01/01/2017
+0053A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,01/03/2022,12/31/9999,01/01/2017
+0054A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,01/03/2022,12/31/9999,01/01/2017
+0064A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,10/20/2021,12/31/9999,01/01/2017
+0071A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,10/29/2021,12/31/9999,01/01/2017
+0072A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,10/29/2021,12/31/9999,01/01/2017
+0073A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,01/03/2022,12/31/9999,01/01/2017
+0074A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,05/17/2022,12/31/9999,01/01/2017
+0081A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,06/17/2022,12/31/9999,01/01/2017
+0082A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,06/17/2022,12/31/9999,01/01/2017
+0083A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,06/17/2022,12/31/9999,01/01/2017
+0091A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,06/17/2022,12/31/9999,01/01/2017
+0092A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,06/17/2022,12/31/9999,01/01/2017
+0093A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,06/17/2022,12/31/9999,01/01/2017
+0094A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,03/29/2022,12/31/9999,01/01/2017
+0111A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,06/17/2022,12/31/9999,01/01/2017
+0112A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,06/17/2022,12/31/9999,01/01/2017
+0113A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,06/17/2022,12/31/9999,01/01/2017
+0124A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,08/31/2022,12/31/9999,01/01/2017
+0134A,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,08/31/2022,12/31/9999,01/01/2017
+0229T,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2010,12/31/2020,01/01/2017
+0232T,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2010,12/31/9999,01/01/2014
+0438T,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2016,12/31/2017,01/01/2014
+0699T,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2022,12/31/9999,01/01/2017
+38242,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2003,12/31/9999,01/01/2014
+38243,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2013,12/31/9999,01/01/2014
+90283,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/1999,12/31/9999,01/01/2014
+90284,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/2008,12/31/9999,01/01/2015
+90296,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1999,12/31/9999,01/01/2015
+90371,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/1999,12/31/9999,01/01/2014
+90375,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/1999,12/31/9999,01/01/2014
+90376,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/1999,12/31/9999,01/01/2014
+90377,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/2021,12/31/9999,01/01/2017
+90378,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/2000,12/31/9999,01/01/2014
+90384,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/1999,12/31/9999,01/01/2014
+90385,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/1999,12/31/9999,01/01/2014
+90393,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/1999,12/31/9999,01/01/2015
+90396,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/1999,12/31/9999,01/01/2014
+90460,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2011,12/31/9999,01/01/2014
+90461,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2011,12/31/9999,01/01/2014
+90471,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1999,12/31/9999,01/01/2014
+90472,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1999,12/31/9999,01/01/2014
+90473,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2002,12/31/9999,01/01/2014
+90474,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2002,12/31/9999,01/01/2014
+90476,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1999,12/31/9999,01/01/2014
+90585,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1999,12/31/9999,01/01/2014
+90586,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1999,12/31/9999,01/01/2014
+90611,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/26/2022,12/31/9999,01/01/2017
+90620,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,02/01/2015,12/31/9999,01/01/2014
+90621,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2015,12/31/9999,01/01/2014
+90622,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/26/2022,12/31/9999,01/01/2017
+90625,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2016,12/31/9999,01/01/2015
+90630,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2015,12/31/9999,01/01/2014
+90632,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1999,12/31/9999,01/01/2014
+90633,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1999,12/31/9999,01/01/2014
+90634,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1999,12/31/9999,01/01/2014
+90636,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1999,12/31/9999,01/01/2014
+90644,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2010,12/31/9999,01/01/2014
+90645,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1999,12/31/2015,01/01/2014
+90646,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1999,12/31/2015,01/01/2014
+90647,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1999,12/31/9999,01/01/2014
+90648,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1999,12/31/9999,01/01/2014
+90649,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2006,12/31/9999,01/01/2014
+90650,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2009,12/31/9999,01/01/2015
+90651,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2015,12/31/9999,01/01/2014
+90653,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2013,12/31/9999,01/01/2014
+90654,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2011,12/31/9999,01/01/2014
+90655,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2004,12/31/9999,01/01/2014
+90656,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2005,12/31/9999,01/01/2014
+90657,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1999,12/31/9999,01/01/2014
+90658,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1999,12/31/9999,01/01/2014
+90658,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1999,12/31/9999,01/01/2017
+90660,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1999,12/31/9999,01/01/2014
+90661,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2008,12/31/9999,01/01/2014
+90662,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2008,12/31/9999,01/01/2014
+90664,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,07/01/2010,12/31/9999,01/01/2015
+90666,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,07/01/2010,12/31/9999,01/01/2014
+90667,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,07/01/2010,12/31/9999,01/01/2015
+90668,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,07/01/2010,12/31/9999,01/01/2014
+90669,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1999,12/31/2015,01/01/2014
+90670,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,07/01/2009,12/31/9999,01/01/2014
+90671,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,07/01/2021,12/31/9999,01/01/2017
+90672,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2013,12/31/9999,01/01/2014
+90673,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2014,12/31/9999,01/01/2014
+90674,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,08/01/2016,12/31/9999,01/01/2014
+90675,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1999,12/31/9999,01/01/2014
+90676,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1999,12/31/9999,01/01/2014
+90677,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,07/01/2021,12/31/9999,01/01/2017
+90680,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1999,12/31/9999,01/01/2014
+90681,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2009,12/31/9999,01/01/2014
+90682,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2017,12/31/9999,01/01/2014
+90685,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2013,12/31/9999,01/01/2014
+90686,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2013,12/31/9999,01/01/2014
+90687,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2013,12/31/9999,01/01/2014
+90688,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2013,12/31/9999,01/01/2014
+90689,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2019,12/31/9999,01/01/2015
+90690,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1999,12/31/9999,01/01/2014
+90691,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1999,12/31/9999,01/01/2014
+90692,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1999,12/31/2015,01/01/2015
+90694,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2020,12/31/9999,01/01/2016
+90696,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2009,12/31/9999,01/01/2014
+90697,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2015,12/31/9999,01/01/2014
+90698,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2004,12/31/9999,01/01/2014
+90700,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1994,12/31/9999,01/01/2014
+90702,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1984,12/31/9999,01/01/2014
+90703,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1984,12/31/2015,01/01/2014
+90704,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1984,12/31/2015,01/01/2015
+90705,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1984,12/31/2015,01/01/2015
+90706,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1984,12/31/2015,01/01/2015
+90707,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1984,12/31/9999,01/01/2014
+90708,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1984,12/31/2015,01/01/2015
+90710,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1994,12/31/9999,01/01/2014
+90712,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1984,12/31/2015,01/01/2014
+90713,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1984,12/31/9999,01/01/2014
+90714,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,07/01/2005,12/31/9999,01/01/2014
+90715,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2004,12/31/9999,01/01/2014
+90716,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1994,12/31/9999,01/01/2015
+90717,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1984,12/31/9999,01/01/2014
+90719,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1984,12/31/2015,01/01/2014
+90720,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1994,12/31/2015,01/01/2014
+90721,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1996,12/31/2015,01/01/2014
+90725,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1984,12/31/2015,01/01/2015
+90732,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1984,12/31/9999,01/01/2014
+90733,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1984,12/31/9999,01/01/2014
+90734,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2004,12/31/9999,01/01/2014
+90735,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1994,12/31/2015,01/01/2014
+90736,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2006,12/31/9999,01/01/2014
+90739,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2013,12/31/9999,01/01/2014
+90740,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2001,12/31/9999,01/01/2014
+90743,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2001,12/31/9999,01/01/2014
+90744,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1996,12/31/9999,01/01/2014
+90746,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1996,12/31/9999,01/01/2014
+90747,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1996,12/31/9999,01/01/2014
+90748,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1998,12/31/9999,01/01/2014
+90749,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/1984,12/31/9999,01/01/2014
+90750,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2017,12/31/9999,01/01/2014
+90756,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2018,12/31/9999,01/01/2014
+90759,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2022,12/31/9999,01/01/2017
+91300,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,12/11/2020,12/31/9999,01/01/2017
+91301,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,12/18/2020,12/31/9999,01/01/2017
+91302,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2021,01/01/2021,01/01/2017
+91303,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,02/27/2021,12/31/9999,01/01/2017
+91304,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/13/2022,12/31/9999,01/01/2017
+91305,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/03/2022,12/31/9999,01/01/2017
+91306,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/20/2021,12/31/9999,01/01/2017
+91307,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/29/2021,12/31/9999,01/01/2017
+91308,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,06/17/2022,12/31/9999,01/01/2017
+91309,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,03/29/2022,12/31/9999,01/01/2017
+91311,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,06/17/2022,12/31/9999,01/01/2017
+91312,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,08/31/2022,12/31/9999,01/01/2017
+91313,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,08/31/2022,12/31/9999,01/01/2017
+95120,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1984,12/31/9999,01/01/2014
+95125,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1984,12/31/9999,01/01/2014
+95130,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1984,12/31/9999,01/01/2017
+96360,RI015N,R,Treatment,RI,"Injections and Infusions (nononcologic)",015,"Intravenous Infusion, Hydration",N,01/01/2009,12/31/9999,01/01/2014
+96361,RI015N,R,Treatment,RI,"Injections and Infusions (nononcologic)",015,"Intravenous Infusion, Hydration",N,01/01/2009,12/31/9999,01/01/2014
+96365,RI015N,R,Treatment,RI,"Injections and Infusions (nononcologic)",015,"Intravenous Infusion, Hydration",N,01/01/2009,12/31/9999,01/01/2014
+96366,RI015N,R,Treatment,RI,"Injections and Infusions (nononcologic)",015,"Intravenous Infusion, Hydration",N,01/01/2009,12/31/9999,01/01/2014
+96367,RI015N,R,Treatment,RI,"Injections and Infusions (nononcologic)",015,"Intravenous Infusion, Hydration",N,01/01/2009,12/31/9999,01/01/2014
+96368,RI015N,R,Treatment,RI,"Injections and Infusions (nononcologic)",015,"Intravenous Infusion, Hydration",N,01/01/2009,12/31/9999,01/01/2014
+96369,RI015N,R,Treatment,RI,"Injections and Infusions (nononcologic)",015,"Intravenous Infusion, Hydration",N,01/01/2009,12/31/9999,01/01/2014
+96370,RI015N,R,Treatment,RI,"Injections and Infusions (nononcologic)",015,"Intravenous Infusion, Hydration",N,01/01/2009,12/31/9999,01/01/2014
+96371,RI015N,R,Treatment,RI,"Injections and Infusions (nononcologic)",015,"Intravenous Infusion, Hydration",N,01/01/2009,12/31/9999,01/01/2014
+96372,RI014N,R,Treatment,RI,"Injections and Infusions (nononcologic)",014,"Injection Administration",N,01/01/2009,12/31/9999,01/01/2014
+96373,RI014N,R,Treatment,RI,"Injections and Infusions (nononcologic)",014,"Injection Administration",N,01/01/2009,12/31/9999,01/01/2014
+96374,RI014N,R,Treatment,RI,"Injections and Infusions (nononcologic)",014,"Injection Administration",N,01/01/2009,12/31/9999,01/01/2014
+96375,RI014N,R,Treatment,RI,"Injections and Infusions (nononcologic)",014,"Injection Administration",N,01/01/2009,12/31/9999,01/01/2014
+96376,RI014N,R,Treatment,RI,"Injections and Infusions (nononcologic)",014,"Injection Administration",N,01/01/2009,12/31/9999,01/01/2014
+96377,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2017,12/31/9999,01/01/2014
+96379,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2009,12/31/9999,01/01/2014
+B4187,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2020,12/31/9999,01/01/2016
+C8957,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2006,12/31/9999,01/01/2014
+C9014,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,01/01/2018,12/31/2018,01/01/2017
+C9015,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2018,12/31/2018,01/01/2014
+C9022,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,07/01/2014,12/31/2014,01/01/2014
+C9023,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2014,12/31/2014,01/01/2014
+C9026,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,10/01/2014,12/31/2015,01/01/2014
+C9029,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/2018,12/31/2018,01/01/2014
+C9032,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2018,12/31/2018,01/01/2014
+C9034,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,10/01/2018,12/31/2018,01/01/2017
+C9035,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2019,09/30/2019,01/01/2015
+C9036,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2019,09/30/2019,01/01/2015
+C9037,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2019,09/30/2019,01/01/2015
+C9038,RI019N,R,Treatment,RI,"Injections and Infusions (nononcologic)",019,"Injection - Immunomodulator",N,01/01/2019,09/30/2019,01/01/2015
+C9039,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2019,09/30/2019,01/01/2015
+C9040,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,04/01/2019,09/30/2019,01/01/2015
+C9041,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,04/01/2019,06/30/2020,01/01/2015
+C9043,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2019,12/31/2019,01/01/2015
+C9044,RI019N,R,Treatment,RI,"Injections and Infusions (nononcologic)",019,"Injection - Immunomodulator",N,04/01/2019,09/30/2019,01/01/2015
+C9047,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,07/01/2019,12/31/9999,01/01/2015
+C9048,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2019,09/30/2019,01/01/2015
+C9050,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,07/01/2019,09/30/2019,01/01/2015
+C9051,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2019,09/30/2019,01/01/2017
+C9052,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,07/01/2019,09/30/2019,01/01/2015
+C9053,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,04/01/2020,06/30/2020,01/01/2016
+C9054,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2020,06/30/2020,01/01/2017
+C9055,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2020,09/30/2020,01/01/2016
+C9056,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2020,06/30/2020,01/01/2016
+C9057,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2020,06/30/2020,01/01/2016
+C9058,RI006N,R,Treatment,RI,"Injections and Infusions (nononcologic)",006,"Injection - Colony Stimulating Factors",N,11/15/2019,06/30/2020,01/01/2016
+C9059,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2020,09/30/2020,01/01/2016
+C9061,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,07/01/2020,09/30/2020,01/01/2016
+C9062,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,10/01/2020,12/31/2020,01/01/2016
+C9063,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,07/01/2020,09/30/2020,01/01/2016
+C9066,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2020,12/31/2020,01/01/2016
+C9072,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/2021,03/31/2021,01/01/2017
+C9074,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2021,06/30/2021,01/01/2017
+C9075,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2021,09/30/2021,01/01/2017
+C9077,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2021,09/30/2021,01/01/2017
+C9078,RI016N,R,Treatment,RI,"Injections and Infusions (nononcologic)",016,"Erythropoiesis - Stimulating Agent",N,07/01/2021,09/30/2021,01/01/2017
+C9079,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,07/01/2021,09/30/2021,01/01/2017
+C9085,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2022,03/31/2022,01/01/2017
+C9086,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2022,03/31/2022,01/01/2017
+C9087,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2022,03/31/2022,01/01/2017
+C9088,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2022,12/31/9999,01/01/2017
+C9089,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2022,12/31/9999,01/01/2017
+C9090,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2022,06/30/2022,01/01/2017
+C9091,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2022,06/30/2022,01/01/2017
+C9092,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2022,06/30/2022,01/01/2017
+C9093,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2022,06/30/2022,01/01/2017
+C9094,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2022,09/30/2022,01/01/2017
+C9095,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2022,09/30/2022,01/01/2017
+C9096,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2022,09/30/2022,01/01/2017
+C9097,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2022,09/30/2022,01/01/2017
+C9098,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2022,09/30/2022,01/01/2017
+C9101,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2022,12/31/9999,01/01/2017
+C9113,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2002,12/31/9999,01/01/2014
+C9121,RI030N,R,Treatment,RI,"Injections and Infusions (nononcologic)",030,"Injection - Anticoagulant",N,01/01/2003,12/31/2016,01/01/2014
+C9132,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2013,06/30/2021,01/01/2014
+C9135,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2014,12/31/2014,01/01/2014
+C9136,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2015,03/31/2015,01/01/2015
+C9136,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2015,03/31/2015,01/01/2014
+C9137,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,04/01/2016,12/31/2016,01/01/2015
+C9137,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2016,12/31/2016,01/01/2014
+C9138,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,04/01/2016,12/31/2016,01/01/2015
+C9138,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2016,12/31/2016,01/01/2014
+C9139,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,10/01/2016,12/31/2016,01/01/2015
+C9139,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2016,12/31/2016,01/01/2014
+C9140,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2017,12/31/2017,01/01/2017
+C9141,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,04/01/2019,06/30/2019,01/01/2017
+C9142,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2022,12/31/2022,01/01/2017
+C9248,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2009,12/31/9999,01/01/2014
+C9254,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2010,12/31/9999,01/01/2014
+C9275,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2011,12/31/2018,01/01/2014
+C9290,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2012,12/31/9999,01/01/2014
+C9441,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2014,06/30/2014,01/01/2014
+C9443,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2015,12/31/2015,01/01/2014
+C9444,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2015,12/31/2015,01/01/2014
+C9445,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2015,12/31/2015,01/01/2014
+C9446,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2015,12/31/2015,01/01/2014
+C9447,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2015,09/30/2019,01/01/2017
+C9450,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2015,12/31/2015,01/01/2014
+C9451,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2015,12/31/2015,01/01/2015
+C9452,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2015,12/31/2015,01/01/2014
+C9454,RI022N,R,Treatment,RI,"Injections and Infusions (nononcologic)",022,"Injection - Somatostatin",N,07/01/2015,12/31/2015,01/01/2014
+C9456,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2015,12/31/2015,01/01/2014
+C9460,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2016,12/31/9999,01/01/2014
+C9462,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2018,12/31/9999,01/01/2014
+C9465,RI025N,R,Treatment,RI,"Injections and Infusions (nononcologic)",025,"Injection - Hyaluronan or Derivative",N,04/01/2018,12/31/2018,01/01/2014
+C9466,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,04/01/2018,12/31/2018,01/01/2014
+C9468,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,04/01/2018,12/31/2018,01/01/2017
+C9469,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2018,06/30/2018,01/01/2017
+C9469,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2018,06/30/2018,01/01/2014
+C9470,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2016,12/31/2016,01/01/2014
+C9471,RI025N,R,Treatment,RI,"Injections and Infusions (nononcologic)",025,"Injection - Hyaluronan or Derivative",N,04/01/2016,12/31/2016,01/01/2014
+C9473,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,04/01/2016,12/31/2016,01/01/2014
+C9478,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,07/01/2016,12/31/2016,01/01/2014
+C9479,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2016,12/31/2016,01/01/2014
+C9481,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2016,12/31/2016,01/01/2014
+C9482,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2016,12/31/9999,01/01/2014
+C9484,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2017,12/31/2017,01/01/2014
+C9487,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,04/01/2017,06/30/2017,01/01/2014
+C9488,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2017,12/31/9999,01/01/2014
+C9489,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2017,12/31/2017,01/01/2014
+C9490,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,07/01/2017,12/31/2017,01/01/2014
+C9493,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2017,12/31/2018,01/01/2014
+C9494,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,10/01/2017,12/31/2017,01/01/2014
+C9743,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2015,06/30/2016,01/01/2014
+G0008,RI023N,R,Treatment,RI,"Injections and Infusions (nononcologic)",023,"Vaccine Admin - Flu, Pneum, and Hep B",N,01/01/1994,12/31/9999,01/01/2014
+G0009,RI023N,R,Treatment,RI,"Injections and Infusions (nononcologic)",023,"Vaccine Admin - Flu, Pneum, and Hep B",N,01/01/1994,12/31/9999,01/01/2014
+G0010,RI023N,R,Treatment,RI,"Injections and Infusions (nononcologic)",023,"Vaccine Admin - Flu, Pneum, and Hep B",N,01/01/1994,12/31/9999,01/01/2014
+G0068,RI014N,R,Treatment,RI,"Injections and Infusions (nononcologic)",014,"Injection Administration",N,01/01/2019,12/31/9999,01/01/2015
+G0069,RI014N,R,Treatment,RI,"Injections and Infusions (nononcologic)",014,"Injection Administration",N,01/01/2019,12/31/9999,01/01/2015
+G0070,RI014N,R,Treatment,RI,"Injections and Infusions (nononcologic)",014,"Injection Administration",N,01/01/2019,12/31/9999,01/01/2015
+J0120,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2014
+J0121,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2019,12/31/9999,01/01/2015
+J0122,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2019,12/31/9999,01/01/2015
+J0129,RI019N,R,Treatment,RI,"Injections and Infusions (nononcologic)",019,"Injection - Immunomodulator",N,01/01/2007,12/31/9999,01/01/2014
+J0130,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/1999,12/31/9999,01/01/2014
+J0131,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2012,12/31/9999,01/01/2014
+J0132,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2006,12/31/9999,01/01/2014
+J0133,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2006,12/31/9999,01/01/2014
+J0135,RI024N,R,Treatment,RI,"Injections and Infusions (nononcologic)",024,"Injection - Tumor Necrosis Factor Blocker",N,01/01/2005,12/31/9999,01/01/2014
+J0150,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1994,12/31/2014,01/01/2014
+J0151,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2014,12/31/2014,01/01/2014
+J0153,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2015,12/31/9999,01/01/2014
+J0171,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2011,12/31/9999,01/01/2014
+J0172,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2022,12/31/9999,01/01/2017
+J0178,RI005N,R,Treatment,RI,"Injections and Infusions (nononcologic)",005,"Injection - Macular Degeneration",N,01/01/2013,12/31/9999,01/01/2014
+J0179,RI005N,R,Treatment,RI,"Injections and Infusions (nononcologic)",005,"Injection - Macular Degeneration",N,01/01/2020,12/31/9999,01/01/2016
+J0180,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,01/01/2005,12/31/9999,01/01/2014
+J0185,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2019,12/31/9999,01/01/2015
+J0190,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J0200,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2000,12/31/9999,01/01/2015
+J0210,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1984,12/31/9999,01/01/2014
+J0215,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2004,12/31/9999,01/01/2014
+J0219,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2022,12/31/9999,01/01/2017
+J0220,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,01/01/2008,12/31/9999,01/01/2014
+J0221,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,01/01/2012,12/31/9999,01/01/2014
+J0222,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2019,12/31/9999,01/01/2015
+J0223,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2020,12/31/9999,01/01/2016
+J0224,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2021,12/31/9999,01/01/2017
+J0248,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,12/23/2021,12/31/9999,01/01/2017
+J0256,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1989,12/31/9999,01/01/2014
+J0257,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2012,12/31/9999,01/01/2014
+J0270,RI026N,R,Treatment,RI,"Injections and Infusions (nononcologic)",026,"Injection - Vasodilator",N,01/01/1997,12/31/9999,01/01/2014
+J0278,RI026N,R,Treatment,RI,"Injections and Infusions (nononcologic)",026,"Injection - Vasodilator",N,01/01/2006,12/31/9999,01/01/2014
+J0280,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1984,12/31/9999,01/01/2014
+J0282,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2001,12/31/9999,01/01/2014
+J0285,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1999,12/31/9999,01/01/2014
+J0287,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2003,12/31/9999,01/01/2014
+J0288,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2003,12/31/9999,01/01/2014
+J0289,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2003,12/31/9999,01/01/2014
+J0290,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1984,12/31/9999,01/01/2014
+J0291,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2019,12/31/9999,01/01/2015
+J0295,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1995,12/31/9999,01/01/2014
+J0300,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J0330,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2014
+J0348,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2007,12/31/9999,01/01/2014
+J0360,RI026N,R,Treatment,RI,"Injections and Infusions (nononcologic)",026,"Injection - Vasodilator",N,01/01/1986,12/31/9999,01/01/2014
+J0364,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2007,12/31/9999,01/01/2014
+J0365,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2006,12/31/9999,01/01/2015
+J0380,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2015
+J0390,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2014
+J0400,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2008,12/31/9999,01/01/2014
+J0401,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2014,12/31/9999,01/01/2014
+J0456,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2000,12/31/9999,01/01/2014
+J0461,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2010,12/31/9999,01/01/2014
+J0470,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J0475,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1994,12/31/9999,01/01/2014
+J0476,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1999,12/31/9999,01/01/2014
+J0480,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2006,12/31/9999,01/01/2014
+J0485,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2013,12/31/9999,01/01/2014
+J0490,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/2012,12/31/9999,01/01/2014
+J0491,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2022,12/31/9999,01/01/2017
+J0500,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2014
+J0515,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J0517,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/2019,12/31/9999,01/01/2015
+J0520,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1984,12/31/9999,01/01/2015
+J0558,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2011,12/31/9999,01/01/2014
+J0561,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2011,12/31/9999,01/01/2014
+J0565,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/2018,12/31/9999,01/01/2014
+J0567,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,01/01/2019,12/31/9999,01/01/2017
+J0571,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2015,12/31/9999,01/01/2014
+J0583,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2004,12/31/9999,01/01/2014
+J0584,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2019,12/31/9999,01/01/2015
+J0585,RI030N,R,Treatment,RI,"Injections and Infusions (nononcologic)",030,"Injection - Anticoagulant",N,01/01/1991,12/31/9999,01/01/2014
+J0586,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2010,12/31/9999,01/01/2014
+J0587,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2002,12/31/9999,01/01/2014
+J0588,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2012,12/31/9999,01/01/2014
+J0592,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2003,12/31/9999,01/01/2014
+J0593,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,10/01/2019,12/31/9999,01/01/2017
+J0595,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2004,12/31/9999,01/01/2014
+J0596,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2016,12/31/9999,01/01/2014
+J0597,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2011,12/31/9999,01/01/2014
+J0598,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2010,12/31/9999,01/01/2014
+J0599,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/2019,12/31/9999,01/01/2017
+J0600,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J0606,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2018,12/31/9999,01/01/2014
+J0610,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J0620,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J0630,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J0636,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2003,12/31/9999,01/01/2014
+J0637,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2003,12/31/9999,01/01/2014
+J0638,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2011,12/31/9999,01/01/2014
+J0640,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/1982,12/31/9999,01/01/2014
+J0641,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2009,12/31/9999,01/01/2014
+J0642,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2019,12/31/9999,01/01/2015
+J0670,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2014
+J0690,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J0691,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2020,12/31/9999,01/01/2016
+J0692,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2002,12/31/9999,01/01/2014
+J0693,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2021,09/30/2021,01/01/2017
+J0694,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1992,12/31/9999,01/01/2014
+J0695,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2016,12/31/9999,01/01/2015
+J0696,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1990,12/31/9999,01/01/2014
+J0697,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1990,12/31/9999,01/01/2014
+J0698,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1991,12/31/9999,01/01/2014
+J0699,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2021,12/31/9999,01/01/2017
+J0702,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1995,12/31/9999,01/01/2014
+J0706,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2002,12/31/9999,01/01/2014
+J0710,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2015
+J0712,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2012,12/31/9999,01/01/2014
+J0713,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1996,12/31/9999,01/01/2014
+J0714,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2016,12/31/9999,01/01/2014
+J0715,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1995,12/31/9999,01/01/2014
+J0716,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2013,12/31/9999,01/01/2014
+J0717,RI024N,R,Treatment,RI,"Injections and Infusions (nononcologic)",024,"Injection - Tumor Necrosis Factor Blocker",N,01/01/2014,12/31/9999,01/01/2014
+J0720,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J0725,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2014
+J0735,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1998,12/31/9999,01/01/2014
+J0740,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1998,12/31/9999,01/01/2014
+J0741,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2021,12/31/9999,01/01/2017
+J0742,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2020,12/31/9999,01/01/2016
+J0743,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1993,12/31/9999,01/01/2014
+J0744,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2002,12/31/9999,01/01/2014
+J0745,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2015
+J0760,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/2016,01/01/2014
+J0770,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J0775,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,01/01/2011,12/31/9999,01/01/2014
+J0791,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,07/01/2020,12/31/9999,01/01/2016
+J0795,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2006,12/31/9999,01/01/2014
+J0800,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J0833,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2010,12/31/2018,01/01/2014
+J0834,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2010,12/31/9999,01/01/2014
+J0840,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2012,12/31/9999,01/01/2014
+J0841,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2019,12/31/9999,01/01/2015
+J0850,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/1982,12/31/9999,01/01/2016
+J0850,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J0875,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2016,12/31/9999,01/01/2014
+J0878,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2005,12/31/9999,01/01/2014
+J0879,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2022,12/31/9999,01/01/2017
+J0881,RI016N,R,Treatment,RI,"Injections and Infusions (nononcologic)",016,"Erythropoiesis - Stimulating Agent",N,01/01/2006,12/31/9999,01/01/2014
+J0883,RI030N,R,Treatment,RI,"Injections and Infusions (nononcologic)",030,"Injection - Anticoagulant",N,01/01/2017,12/31/9999,01/01/2014
+J0885,RI016N,R,Treatment,RI,"Injections and Infusions (nononcologic)",016,"Erythropoiesis - Stimulating Agent",N,01/01/2006,12/31/9999,01/01/2014
+J0888,RI016N,R,Treatment,RI,"Injections and Infusions (nononcologic)",016,"Erythropoiesis - Stimulating Agent",N,01/01/2015,12/31/9999,01/01/2014
+J0895,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1992,12/31/9999,01/01/2014
+J0896,RI016N,R,Treatment,RI,"Injections and Infusions (nononcologic)",016,"Erythropoiesis - Stimulating Agent",N,07/01/2020,12/31/9999,01/01/2016
+J0897,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/2012,12/31/9999,01/01/2014
+J0900,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/2014,01/01/2014
+J0945,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1000,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1020,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1030,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1040,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1050,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2013,12/31/9999,01/01/2014
+J1070,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/2014,01/01/2014
+J1071,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2015,12/31/9999,01/01/2014
+J1080,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/2014,01/01/2014
+J1094,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2003,12/31/9999,01/01/2014
+J1095,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2019,12/31/9999,01/01/2015
+J1096,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2019,12/31/9999,01/01/2015
+J1097,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2019,12/31/9999,01/01/2015
+J1100,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1110,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1120,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,01/01/1982,12/31/9999,01/01/2014
+J1130,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2017,12/31/9999,01/01/2014
+J1160,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1162,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/2006,12/31/9999,01/01/2014
+J1165,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1170,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1180,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2015
+J1190,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1997,12/31/9999,01/01/2014
+J1200,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1201,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2020,12/31/9999,01/01/2016
+J1205,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1212,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2014
+J1230,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1240,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1984,12/31/9999,01/01/2014
+J1245,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1993,12/31/9999,01/01/2014
+J1250,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1996,12/31/9999,01/01/2014
+J1260,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1999,12/31/9999,01/01/2014
+J1265,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2006,12/31/9999,01/01/2014
+J1267,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2009,12/31/9999,01/01/2014
+J1270,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2002,12/31/9999,01/01/2014
+J1290,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2011,12/31/9999,01/01/2014
+J1300,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/2008,12/31/9999,01/01/2014
+J1301,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2019,12/31/9999,01/01/2015
+J1302,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2022,12/31/9999,01/01/2017
+J1303,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,10/01/2019,12/31/9999,01/01/2015
+J1305,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,10/01/2021,12/31/9999,01/01/2017
+J1306,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2022,12/31/9999,01/01/2017
+J1320,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2015
+J1322,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,01/01/2015,12/31/9999,01/01/2014
+J1324,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2007,12/31/9999,01/01/2015
+J1325,RI026N,R,Treatment,RI,"Injections and Infusions (nononcologic)",026,"Injection - Vasodilator",N,01/01/1998,12/31/9999,01/01/2014
+J1327,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2000,12/31/9999,01/01/2014
+J1330,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2014
+J1335,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2004,12/31/9999,01/01/2014
+J1364,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1995,12/31/9999,01/01/2014
+J1380,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1410,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1426,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2021,12/31/9999,01/01/2017
+J1427,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2021,12/31/9999,01/01/2017
+J1428,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2018,12/31/9999,01/01/2014
+J1429,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2020,12/31/9999,01/01/2017
+J1430,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2006,12/31/9999,01/01/2014
+J1435,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2015
+J1436,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1990,12/31/9999,01/01/2015
+J1437,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2020,12/31/9999,01/01/2016
+J1438,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2000,12/31/9999,01/01/2014
+J1439,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2015,12/31/9999,01/01/2016
+J1439,RI016N,R,Treatment,RI,"Injections and Infusions (nononcologic)",016,"Erythropoiesis - Stimulating Agent",N,01/01/2015,12/31/9999,01/01/2014
+J1442,RI006N,R,Treatment,RI,"Injections and Infusions (nononcologic)",006,"Injection - Colony Stimulating Factors",N,01/01/2014,12/31/9999,01/01/2014
+J1443,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2016,12/31/9999,01/01/2015
+J1444,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2019,12/31/9999,01/01/2015
+J1446,RI006N,R,Treatment,RI,"Injections and Infusions (nononcologic)",006,"Injection - Colony Stimulating Factors",N,01/01/2014,12/31/2015,01/01/2014
+J1447,RI006N,R,Treatment,RI,"Injections and Infusions (nononcologic)",006,"Injection - Colony Stimulating Factors",N,01/01/2016,12/31/9999,01/01/2014
+J1448,RI016N,R,Treatment,RI,"Injections and Infusions (nononcologic)",016,"Erythropoiesis - Stimulating Agent",N,10/01/2021,12/31/9999,01/01/2017
+J1450,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2000,12/31/9999,01/01/2014
+J1451,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2006,12/31/9999,01/01/2014
+J1452,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2001,12/31/9999,01/01/2015
+J1452,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2001,12/31/9999,01/01/2017
+J1455,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1993,12/31/9999,01/01/2014
+J1457,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2005,12/31/9999,01/01/2014
+J1458,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,01/01/2007,12/31/9999,01/01/2014
+J1459,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/2009,12/31/9999,01/01/2014
+J1460,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/1984,12/31/9999,01/01/2014
+J1551,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2022,12/31/9999,01/01/2017
+J1554,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,04/01/2021,12/31/9999,01/01/2017
+J1555,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/2018,12/31/9999,01/01/2014
+J1556,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/2014,12/31/9999,01/01/2014
+J1557,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/2012,12/31/9999,01/01/2014
+J1558,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,07/01/2020,12/31/9999,01/01/2016
+J1559,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/2011,12/31/9999,01/01/2014
+J1560,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/1984,12/31/9999,01/01/2014
+J1561,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/2008,12/31/9999,01/01/2014
+J1562,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/2007,12/31/9999,01/01/2014
+J1566,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/2006,12/31/9999,01/01/2014
+J1568,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/2008,12/31/9999,01/01/2014
+J1569,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/2008,12/31/9999,01/01/2014
+J1570,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1994,12/31/9999,01/01/2014
+J1571,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/2008,12/31/9999,01/01/2014
+J1572,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/2008,12/31/9999,01/01/2014
+J1573,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/2008,12/31/9999,01/01/2014
+J1575,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/2016,12/31/9999,01/01/2014
+J1580,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1984,12/31/9999,01/01/2014
+J1590,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2002,12/31/2016,01/01/2015
+J1595,RI019N,R,Treatment,RI,"Injections and Infusions (nononcologic)",019,"Injection - Immunomodulator",N,01/01/2004,12/31/9999,01/01/2014
+J1599,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/2011,12/31/9999,01/01/2014
+J1600,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1602,RI024N,R,Treatment,RI,"Injections and Infusions (nononcologic)",024,"Injection - Tumor Necrosis Factor Blocker",N,01/01/2014,12/31/9999,01/01/2014
+J1610,RI024N,R,Treatment,RI,"Injections and Infusions (nononcologic)",024,"Injection - Tumor Necrosis Factor Blocker",N,01/01/1986,12/31/9999,01/01/2014
+J1620,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2015
+J1628,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/2019,12/31/9999,01/01/2015
+J1630,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2014
+J1631,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1989,12/31/9999,01/01/2014
+J1632,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2020,12/31/9999,01/01/2017
+J1640,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2006,12/31/9999,01/01/2014
+J1642,RI030N,R,Treatment,RI,"Injections and Infusions (nononcologic)",030,"Injection - Anticoagulant",N,01/01/1995,12/31/9999,01/01/2014
+J1644,RI030N,R,Treatment,RI,"Injections and Infusions (nononcologic)",030,"Injection - Anticoagulant",N,01/01/1995,12/31/9999,01/01/2014
+J1645,RI030N,R,Treatment,RI,"Injections and Infusions (nononcologic)",030,"Injection - Anticoagulant",N,01/01/1997,12/31/9999,01/01/2014
+J1650,RI030N,R,Treatment,RI,"Injections and Infusions (nononcologic)",030,"Injection - Anticoagulant",N,01/01/1996,12/31/9999,01/01/2014
+J1652,RI030N,R,Treatment,RI,"Injections and Infusions (nononcologic)",030,"Injection - Anticoagulant",N,01/01/2003,12/31/9999,01/01/2014
+J1655,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2002,12/31/9999,01/01/2015
+J1670,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/1986,12/31/9999,01/01/2014
+J1700,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2015
+J1710,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1720,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1725,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2012,12/31/2017,01/01/2014
+J1726,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2018,12/31/9999,01/01/2014
+J1729,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2018,12/31/9999,01/01/2014
+J1730,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2015
+J1738,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2020,12/31/9999,01/01/2016
+J1740,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2007,12/31/9999,01/01/2014
+J1741,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2013,12/31/9999,01/01/2014
+J1742,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1998,12/31/9999,01/01/2014
+J1743,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,01/01/2008,12/31/9999,01/01/2014
+J1744,RI019N,R,Treatment,RI,"Injections and Infusions (nononcologic)",019,"Injection - Immunomodulator",N,01/01/2013,12/31/9999,01/01/2014
+J1745,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/2000,12/31/9999,01/01/2014
+J1746,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/2019,12/31/9999,01/01/2015
+J1750,RI016N,R,Treatment,RI,"Injections and Infusions (nononcologic)",016,"Erythropoiesis - Stimulating Agent",N,12/31/2005,12/31/9999,01/01/2014
+J1756,RI016N,R,Treatment,RI,"Injections and Infusions (nononcologic)",016,"Erythropoiesis - Stimulating Agent",N,01/01/2003,12/31/9999,01/01/2014
+J1786,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,01/01/2011,12/31/9999,01/01/2014
+J1800,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1810,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1815,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2003,12/31/9999,01/01/2014
+J1817,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2003,12/31/9999,01/01/2017
+J1823,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/2021,12/31/9999,01/01/2017
+J1826,RI019N,R,Treatment,RI,"Injections and Infusions (nononcologic)",019,"Injection - Immunomodulator",N,01/01/2011,12/31/9999,01/01/2014
+J1830,RI019N,R,Treatment,RI,"Injections and Infusions (nononcologic)",019,"Injection - Immunomodulator",N,01/01/1982,12/31/9999,01/01/2014
+J1833,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2016,12/31/9999,01/01/2014
+J1835,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2002,12/31/9999,01/01/2015
+J1840,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1850,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1885,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1993,12/31/9999,01/01/2014
+J1890,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1930,RI022N,R,Treatment,RI,"Injections and Infusions (nononcologic)",022,"Injection - Somatostatin",N,01/01/2009,12/31/9999,01/01/2014
+J1931,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,01/01/2005,12/31/9999,01/01/2014
+J1932,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2022,12/31/9999,01/01/2017
+J1940,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,01/01/1982,12/31/9999,01/01/2014
+J1942,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2017,09/30/2019,01/01/2014
+J1943,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2019,12/31/9999,01/01/2015
+J1944,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2019,12/31/9999,01/01/2015
+J1945,RI030N,R,Treatment,RI,"Injections and Infusions (nononcologic)",030,"Injection - Anticoagulant",N,01/01/2006,12/31/9999,01/01/2014
+J1950,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2014
+J1951,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2021,12/31/9999,01/01/2017
+J1952,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2022,12/31/9999,01/01/2017
+J1953,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2009,12/31/9999,01/01/2014
+J1955,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1996,12/31/9999,01/01/2014
+J1956,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1999,12/31/9999,01/01/2014
+J1960,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2015
+J1980,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J1990,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2015
+J2001,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2004,12/31/9999,01/01/2014
+J2010,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2020,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2002,12/31/9999,01/01/2014
+J2060,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2150,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2014
+J2170,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2007,12/31/9999,01/01/2015
+J2175,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2014
+J2180,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2182,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/2017,12/31/9999,01/01/2014
+J2185,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2004,12/31/9999,01/01/2014
+J2186,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2019,12/31/9999,01/01/2015
+J2210,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2212,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2013,12/31/9999,01/01/2014
+J2248,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2007,12/31/9999,01/01/2014
+J2250,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1996,12/31/9999,01/01/2014
+J2260,RI026N,R,Treatment,RI,"Injections and Infusions (nononcologic)",026,"Injection - Vasodilator",N,01/01/1986,12/31/9999,01/01/2014
+J2265,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2012,12/31/9999,01/01/2014
+J2270,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2271,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1999,12/31/2014,01/01/2014
+J2274,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2015,12/31/9999,01/01/2014
+J2275,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1993,12/31/2014,01/01/2014
+J2278,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2006,12/31/9999,01/01/2014
+J2280,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2004,12/31/9999,01/01/2014
+J2300,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1996,12/31/9999,01/01/2014
+J2310,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1996,12/31/9999,01/01/2014
+J2315,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2007,12/31/9999,01/01/2014
+J2320,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2014
+J2323,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/2008,12/31/9999,01/01/2014
+J2325,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2006,12/31/9999,01/01/2014
+J2326,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2018,12/31/9999,01/01/2014
+J2350,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/2018,12/31/9999,01/01/2014
+J2353,RI022N,R,Treatment,RI,"Injections and Infusions (nononcologic)",022,"Injection - Somatostatin",N,01/01/2004,12/31/9999,01/01/2014
+J2354,RI022N,R,Treatment,RI,"Injections and Infusions (nononcologic)",022,"Injection - Somatostatin",N,01/01/2004,12/31/9999,01/01/2014
+J2355,RI036N,R,Treatment,RI,"Injections and Infusions (nononcologic)",036,"Platelet Stimulating Agent",N,01/01/1999,12/31/9999,01/01/2017
+J2355,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1999,12/31/9999,01/01/2014
+J2356,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2022,12/31/9999,01/01/2017
+J2357,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/2005,12/31/9999,01/01/2014
+J2358,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2011,12/31/9999,01/01/2014
+J2360,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2370,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2400,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/2022,01/01/2014
+J2405,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1993,12/31/9999,01/01/2014
+J2406,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2021,12/31/9999,01/01/2017
+J2407,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2016,12/31/9999,01/01/2014
+J2410,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2425,RI013N,R,Treatment,RI,"Injections and Infusions (nononcologic)",013,"Injection - Growth/Hormone Factor",N,01/01/2006,12/31/9999,01/01/2014
+J2426,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2011,12/31/9999,01/01/2014
+J2430,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2440,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2014
+J2460,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2015
+J2501,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2003,12/31/9999,01/01/2014
+J2502,RI022N,R,Treatment,RI,"Injections and Infusions (nononcologic)",022,"Injection - Somatostatin",N,01/01/2016,12/31/9999,01/01/2014
+J2503,RI013N,R,Treatment,RI,"Injections and Infusions (nononcologic)",013,"Injection - Growth/Hormone Factor",N,01/01/2006,12/31/9999,01/01/2014
+J2504,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,01/01/2006,12/31/9999,01/01/2014
+J2505,RI006N,R,Treatment,RI,"Injections and Infusions (nononcologic)",006,"Injection - Colony Stimulating Factors",N,01/01/2004,12/31/2021,01/01/2014
+J2506,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2022,12/31/9999,01/01/2017
+J2507,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,01/01/2012,12/31/9999,01/01/2014
+J2510,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2515,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2540,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2543,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2000,12/31/9999,01/01/2014
+J2547,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2016,12/31/9999,01/01/2014
+J2550,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2560,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2562,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2010,12/31/9999,01/01/2014
+J2590,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2014
+J2597,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1996,12/31/9999,01/01/2014
+J2650,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2670,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2017
+J2675,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2015
+J2680,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2690,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2700,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2704,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2015,12/31/9999,01/01/2014
+J2710,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2720,RI030N,R,Treatment,RI,"Injections and Infusions (nononcologic)",030,"Injection - Anticoagulant",N,01/01/1982,12/31/9999,01/01/2014
+J2724,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2008,12/31/9999,01/01/2014
+J2730,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2014
+J2760,RI026N,R,Treatment,RI,"Injections and Infusions (nononcologic)",026,"Injection - Vasodilator",N,01/01/1982,12/31/9999,01/01/2014
+J2765,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2770,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2001,12/31/9999,01/01/2014
+J2778,RI013N,R,Treatment,RI,"Injections and Infusions (nononcologic)",013,"Injection - Growth/Hormone Factor",N,01/01/2008,12/31/9999,01/01/2014
+J2779,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2022,12/31/9999,01/01/2017
+J2780,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2000,12/31/9999,01/01/2014
+J2783,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,01/01/2004,12/31/9999,01/01/2014
+J2785,RI026N,R,Treatment,RI,"Injections and Infusions (nononcologic)",026,"Injection - Vasodilator",N,01/01/2009,12/31/9999,01/01/2014
+J2786,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2017,12/31/9999,01/01/2014
+J2788,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/2003,12/31/9999,01/01/2016
+J2788,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2003,12/31/9999,01/01/2014
+J2790,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2014
+J2790,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/1986,12/31/9999,01/01/2016
+J2791,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/2008,12/31/9999,01/01/2016
+J2791,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2008,12/31/9999,01/01/2014
+J2792,RI008N,R,Treatment,RI,"Injections and Infusions (nononcologic)",008,"Injection - Immune Globulin",N,01/01/1999,12/31/9999,01/01/2016
+J2792,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1999,12/31/9999,01/01/2014
+J2793,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2010,12/31/9999,01/01/2014
+J2794,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2005,12/31/9999,01/01/2014
+J2795,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2001,12/31/9999,01/01/2014
+J2796,RI036N,R,Treatment,RI,"Injections and Infusions (nononcologic)",036,"Platelet Stimulating Agent",N,01/01/2010,12/31/9999,01/01/2017
+J2796,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2010,12/31/9999,01/01/2014
+J2798,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2019,12/31/9999,01/01/2015
+J2800,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2805,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2006,12/31/9999,01/01/2014
+J2810,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2820,RI006N,R,Treatment,RI,"Injections and Infusions (nononcologic)",006,"Injection - Colony Stimulating Factors",N,01/01/1982,12/31/9999,01/01/2014
+J2840,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,01/01/2017,12/31/9999,01/01/2014
+J2850,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2006,12/31/9999,01/01/2014
+J2860,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2016,12/31/9999,01/01/2014
+J2910,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2916,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2003,12/31/9999,01/01/2016
+J2916,RI016N,R,Treatment,RI,"Injections and Infusions (nononcologic)",016,"Erythropoiesis - Stimulating Agent",N,01/01/2003,12/31/9999,01/01/2014
+J2920,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2930,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1984,12/31/9999,01/01/2014
+J2941,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2002,12/31/9999,01/01/2014
+J2950,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J2993,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2001,12/31/9999,01/01/2014
+J2995,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2015
+J2997,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2001,12/31/9999,01/01/2014
+J2998,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2022,12/31/9999,01/01/2017
+J3000,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J3010,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J3030,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2014
+J3031,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,10/01/2019,12/31/9999,01/01/2015
+J3032,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,10/01/2020,12/31/9999,01/01/2016
+J3060,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,01/01/2014,12/31/9999,01/01/2014
+J3070,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J3090,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2016,12/31/9999,01/01/2014
+J3095,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2011,12/31/9999,01/01/2014
+J3101,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2009,12/31/9999,01/01/2014
+J3105,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1987,12/31/9999,01/01/2014
+J3110,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2005,12/31/9999,01/01/2014
+J3111,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,10/01/2019,12/31/9999,01/01/2015
+J3120,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/2014,01/01/2014
+J3121,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2015,12/31/9999,01/01/2014
+J3130,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/2014,01/01/2014
+J3140,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/2014,01/01/2014
+J3145,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2015,12/31/9999,01/01/2014
+J3150,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/2014,01/01/2014
+J3230,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J3240,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2014
+J3241,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,10/01/2020,12/31/9999,01/01/2016
+J3243,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2007,12/31/9999,01/01/2014
+J3245,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/2019,12/31/9999,01/01/2015
+J3246,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2005,12/31/9999,01/01/2014
+J3260,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J3262,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/2011,12/31/9999,01/01/2014
+J3265,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1996,12/31/9999,01/01/2014
+J3280,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2015
+J3285,RI026N,R,Treatment,RI,"Injections and Infusions (nononcologic)",026,"Injection - Vasodilator",N,01/01/2006,12/31/9999,01/01/2014
+J3300,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2009,12/31/9999,01/01/2014
+J3301,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1991,12/31/9999,01/01/2014
+J3302,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1991,12/31/9999,01/01/2014
+J3303,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1991,12/31/9999,01/01/2014
+J3304,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2019,12/31/9999,01/01/2015
+J3305,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1996,12/31/9999,01/01/2017
+J3310,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J3315,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2003,12/31/9999,01/01/2014
+J3316,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2019,12/31/9999,01/01/2015
+J3320,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J3350,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2014
+J3355,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2006,12/31/9999,01/01/2015
+J3357,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/2011,12/31/9999,01/01/2014
+J3358,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/2018,12/31/9999,01/01/2014
+J3360,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J3364,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1993,12/31/9999,01/01/2014
+J3365,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1992,12/31/9999,01/01/2017
+J3370,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2014
+J3380,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/2016,12/31/9999,01/01/2014
+J3385,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,01/01/2011,12/31/9999,01/01/2014
+J3396,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2005,12/31/9999,01/01/2014
+J3397,RI031N,R,Treatment,RI,"Injections and Infusions (nononcologic)",031,"Injection - Enzymes",N,01/01/2019,12/31/9999,01/01/2017
+J3398,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2019,12/31/9999,01/01/2015
+J3399,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2020,12/31/9999,01/01/2017
+J3400,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J3410,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J3411,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2004,12/31/9999,01/01/2014
+J3415,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2004,12/31/9999,01/01/2014
+J3420,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1986,12/31/9999,01/01/2014
+J3430,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J3465,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2004,12/31/9999,01/01/2014
+J3470,RI025N,R,Treatment,RI,"Injections and Infusions (nononcologic)",025,"Injection - Hyaluronan or Derivative",N,01/01/1982,12/31/9999,01/01/2014
+J3471,RI025N,R,Treatment,RI,"Injections and Infusions (nononcologic)",025,"Injection - Hyaluronan or Derivative",N,01/01/2006,12/31/9999,01/01/2014
+J3472,RI025N,R,Treatment,RI,"Injections and Infusions (nononcologic)",025,"Injection - Hyaluronan or Derivative",N,01/01/2006,12/31/9999,01/01/2014
+J3473,RI025N,R,Treatment,RI,"Injections and Infusions (nononcologic)",025,"Injection - Hyaluronan or Derivative",N,01/01/2007,12/31/9999,01/01/2014
+J3475,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1996,12/31/9999,01/01/2014
+J3480,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1996,12/31/9999,01/01/2014
+J3485,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2001,12/31/9999,01/01/2014
+J3486,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2004,12/31/9999,01/01/2014
+J3489,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2014,12/31/9999,01/01/2014
+J3530,RI023N,R,Treatment,RI,"Injections and Infusions (nononcologic)",023,"Vaccine Admin - Flu, Pneum, and Hep B",N,01/01/1986,12/31/9999,01/01/2017
+J7030,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J7040,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1984,12/31/9999,01/01/2014
+J7042,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1984,12/31/9999,01/01/2014
+J7050,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J7060,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1985,12/31/9999,01/01/2014
+J7070,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J7100,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J7110,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J7120,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/1982,12/31/9999,01/01/2014
+J7121,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2016,12/31/9999,01/01/2014
+J7131,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2012,12/31/9999,01/01/2014
+J7168,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,07/01/2021,12/31/9999,01/01/2017
+J7169,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,07/01/2020,12/31/9999,01/01/2016
+J7170,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/2019,12/31/9999,01/01/2015
+J7175,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2017,12/31/9999,01/01/2014
+J7177,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2019,12/31/9999,01/01/2015
+J7178,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2013,12/31/9999,01/01/2014
+J7179,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2017,12/31/9999,01/01/2014
+J7180,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2012,12/31/9999,01/01/2014
+J7181,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2015,12/31/9999,01/01/2014
+J7182,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2015,12/31/9999,01/01/2014
+J7183,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2012,12/31/9999,01/01/2014
+J7185,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2010,12/31/9999,01/01/2014
+J7186,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2009,12/31/9999,01/01/2014
+J7187,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2007,12/31/9999,01/01/2014
+J7188,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2016,12/31/9999,01/01/2014
+J7189,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2006,12/31/9999,01/01/2014
+J7190,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/1986,12/31/9999,01/01/2014
+J7191,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/1996,12/31/9999,01/01/2014
+J7192,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/1994,12/31/9999,01/01/2014
+J7193,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2002,12/31/9999,01/01/2014
+J7194,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/1986,12/31/9999,01/01/2014
+J7195,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2002,12/31/9999,01/01/2014
+J7196,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2011,12/31/9999,01/01/2014
+J7197,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/1992,12/31/9999,01/01/2014
+J7198,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2000,12/31/9999,01/01/2014
+J7199,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2000,12/31/9999,01/01/2014
+J7200,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2015,12/31/9999,01/01/2014
+J7201,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2015,12/31/9999,01/01/2014
+J7202,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2017,12/31/9999,01/01/2014
+J7203,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2019,12/31/9999,01/01/2015
+J7204,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,07/01/2020,12/31/9999,01/01/2016
+J7205,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2016,12/31/9999,01/01/2014
+J7207,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2017,12/31/9999,01/01/2014
+J7208,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,07/01/2019,12/31/9999,01/01/2015
+J7209,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2017,12/31/9999,01/01/2014
+J7210,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2018,12/31/9999,01/01/2014
+J7211,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2018,12/31/9999,01/01/2014
+J7212,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,01/01/2021,12/31/9999,01/01/2017
+J7298,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2016,12/31/9999,01/01/2017
+J7298,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2016,12/31/9999,01/01/2014
+J7313,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2016,12/31/9999,01/01/2014
+J7314,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2019,12/31/9999,01/01/2015
+J7316,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2014,12/31/9999,01/01/2014
+J7318,RI025N,R,Treatment,RI,"Injections and Infusions (nononcologic)",025,"Injection - Hyaluronan or Derivative",N,01/01/2019,12/31/9999,01/01/2015
+J7320,RI025N,R,Treatment,RI,"Injections and Infusions (nononcologic)",025,"Injection - Hyaluronan or Derivative",N,01/01/2017,12/31/9999,01/01/2014
+J7321,RI025N,R,Treatment,RI,"Injections and Infusions (nononcologic)",025,"Injection - Hyaluronan or Derivative",N,01/01/2008,12/31/9999,01/01/2014
+J7322,RI025N,R,Treatment,RI,"Injections and Infusions (nononcologic)",025,"Injection - Hyaluronan or Derivative",N,01/01/2017,12/31/9999,01/01/2014
+J7323,RI025N,R,Treatment,RI,"Injections and Infusions (nononcologic)",025,"Injection - Hyaluronan or Derivative",N,01/01/2008,12/31/9999,01/01/2014
+J7324,RI025N,R,Treatment,RI,"Injections and Infusions (nononcologic)",025,"Injection - Hyaluronan or Derivative",N,01/01/2008,12/31/9999,01/01/2014
+J7325,RI025N,R,Treatment,RI,"Injections and Infusions (nononcologic)",025,"Injection - Hyaluronan or Derivative",N,01/01/2010,12/31/9999,01/01/2014
+J7326,RI025N,R,Treatment,RI,"Injections and Infusions (nononcologic)",025,"Injection - Hyaluronan or Derivative",N,01/01/2012,12/31/9999,01/01/2014
+J7327,RI025N,R,Treatment,RI,"Injections and Infusions (nononcologic)",025,"Injection - Hyaluronan or Derivative",N,01/01/2015,12/31/9999,01/01/2014
+J7328,RI025N,R,Treatment,RI,"Injections and Infusions (nononcologic)",025,"Injection - Hyaluronan or Derivative",N,01/01/2016,12/31/9999,01/01/2014
+J7329,RI025N,R,Treatment,RI,"Injections and Infusions (nononcologic)",025,"Injection - Hyaluronan or Derivative",N,01/01/2019,12/31/9999,01/01/2015
+J7330,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2001,12/31/9999,01/01/2015
+J7331,RI025N,R,Treatment,RI,"Injections and Infusions (nononcologic)",025,"Injection - Hyaluronan or Derivative",N,10/01/2019,12/31/9999,01/01/2015
+J7332,RI025N,R,Treatment,RI,"Injections and Infusions (nononcologic)",025,"Injection - Hyaluronan or Derivative",N,10/01/2019,12/31/9999,01/01/2015
+J7333,RI025N,R,Treatment,RI,"Injections and Infusions (nononcologic)",025,"Injection - Hyaluronan or Derivative",N,07/01/2020,03/31/2021,01/01/2016
+J7342,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2017,12/31/9999,01/01/2014
+J7351,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2020,12/31/9999,01/01/2016
+J9210,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,10/01/2019,12/31/9999,01/01/2016
+J9246,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2020,12/31/9999,01/01/2016
+L8607,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2016,12/31/9999,01/01/2014
+M0201,RI035N,R,Treatment,RI,"Injections and Infusions (nononcologic)",035,"COVID-19 Vaccine Administration",N,06/08/2021,12/31/9999,01/01/2017
+M0220,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,12/08/2021,12/31/9999,01/01/2017
+M0221,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,12/08/2021,12/31/9999,01/01/2017
+M0222,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,02/11/2022,12/31/9999,01/01/2017
+M0223,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,02/11/2022,12/31/9999,01/01/2017
+M0239,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,11/09/2020,04/16/2021,01/01/2016
+M0240,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,07/30/2021,12/31/9999,01/01/2017
+M0241,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,07/30/2021,12/31/9999,01/01/2017
+M0243,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,11/21/2020,12/31/9999,01/01/2016
+M0244,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,05/06/2021,12/31/9999,01/01/2017
+M0245,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,02/09/2021,12/31/9999,01/01/2017
+M0246,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,05/06/2021,12/31/9999,01/01/2017
+M0247,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,05/26/2021,12/31/9999,01/01/2017
+M0248,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,05/26/2021,12/31/9999,01/01/2017
+M0249,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,06/24/2021,12/31/9999,01/01/2017
+M0250,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,06/24/2021,12/31/9999,01/01/2017
+P9041,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2001,12/31/9999,01/01/2014
+P9043,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2001,12/31/9999,01/01/2014
+P9045,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2002,12/31/9999,01/01/2014
+P9046,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2002,12/31/9999,01/01/2014
+P9047,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2002,12/31/9999,01/01/2014
+P9048,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2002,12/31/9999,01/01/2014
+Q0081,RI015N,R,Treatment,RI,"Injections and Infusions (nononcologic)",015,"Intravenous Infusion, Hydration",N,01/01/1992,12/31/9999,01/01/2014
+Q0138,RI016N,R,Treatment,RI,"Injections and Infusions (nononcologic)",016,"Erythropoiesis - Stimulating Agent",N,01/01/2010,12/31/9999,01/01/2014
+Q0220,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,12/08/2021,12/31/9999,01/01/2017
+Q0221,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,02/24/2022,12/31/9999,01/01/2017
+Q0222,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,02/11/2022,12/31/9999,01/01/2017
+Q0239,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,11/09/2020,04/16/2021,01/01/2016
+Q0240,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,07/30/2021,12/31/9999,01/01/2017
+Q0243,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,11/21/2020,12/31/9999,01/01/2016
+Q0244,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,06/03/2021,12/31/9999,01/01/2017
+Q0245,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,02/09/2021,12/31/9999,01/01/2017
+Q0247,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,05/26/2021,12/31/9999,01/01/2017
+Q0249,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,06/24/2021,12/31/9999,01/01/2017
+Q2004,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2000,12/31/9999,01/01/2015
+Q2009,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2000,12/31/9999,01/01/2014
+Q2026,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2010,12/31/9999,01/01/2014
+Q2028,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2014,12/31/9999,01/01/2014
+Q2034,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,07/01/2012,12/31/9999,01/01/2014
+Q2035,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2011,12/31/9999,01/01/2014
+Q2036,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2011,12/31/9999,01/01/2014
+Q2037,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2011,12/31/9999,01/01/2014
+Q2038,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2011,12/31/9999,01/01/2014
+Q2039,RI011N,R,Treatment,RI,"Injections and Infusions (nononcologic)",011,"Vaccine - Toxoids",N,01/01/2011,12/31/9999,01/01/2014
+Q2055,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2022,12/31/9999,01/01/2017
+Q2056,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2022,12/31/9999,01/01/2017
+Q3027,RI019N,R,Treatment,RI,"Injections and Infusions (nononcologic)",019,"Injection - Immunomodulator",N,01/01/2014,12/31/9999,01/01/2014
+Q4155,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2015,12/31/9999,01/01/2014
+Q5101,RI006N,R,Treatment,RI,"Injections and Infusions (nononcologic)",006,"Injection - Colony Stimulating Factors",N,07/01/2015,12/31/9999,01/01/2014
+Q5102,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,07/01/2016,03/31/2018,01/01/2014
+Q5103,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,04/01/2018,12/31/9999,01/01/2014
+Q5104,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,04/01/2018,12/31/9999,01/01/2014
+Q5106,RI016N,R,Treatment,RI,"Injections and Infusions (nononcologic)",016,"Erythropoiesis - Stimulating Agent",N,07/01/2018,12/31/9999,01/01/2014
+Q5108,RI006N,R,Treatment,RI,"Injections and Infusions (nononcologic)",006,"Injection - Colony Stimulating Factors",N,10/01/2018,12/31/9999,01/01/2014
+Q5109,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,01/01/2019,12/31/9999,01/01/2015
+Q5110,RI006N,R,Treatment,RI,"Injections and Infusions (nononcologic)",006,"Injection - Colony Stimulating Factors",N,10/01/2018,12/31/9999,01/01/2014
+Q5115,RI019N,R,Treatment,RI,"Injections and Infusions (nononcologic)",019,"Injection - Immunomodulator",N,07/01/2019,12/31/9999,01/01/2015
+Q5119,RI019N,R,Treatment,RI,"Injections and Infusions (nononcologic)",019,"Injection - Immunomodulator",N,07/01/2020,12/31/9999,01/01/2016
+Q5120,RI006N,R,Treatment,RI,"Injections and Infusions (nononcologic)",006,"Injection - Colony Stimulating Factors",N,07/01/2020,12/31/9999,01/01/2016
+Q5121,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,07/01/2020,12/31/9999,01/01/2016
+Q5122,RI016N,R,Treatment,RI,"Injections and Infusions (nononcologic)",016,"Erythropoiesis - Stimulating Agent",N,01/01/2021,12/31/9999,01/01/2017
+Q5124,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2022,12/31/9999,01/01/2017
+Q5125,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,10/01/2022,12/31/9999,01/01/2017
+Q9950,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,01/01/2016,12/31/9999,01/01/2014
+Q9970,RI016N,R,Treatment,RI,"Injections and Infusions (nononcologic)",016,"Erythropoiesis - Stimulating Agent",N,07/01/2014,12/31/2014,01/01/2014
+Q9974,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2014,12/31/2014,01/01/2014
+Q9975,RI018N,R,Treatment,RI,"Injections and Infusions (nononcologic)",018,"Injection - Clotting Factors",N,04/01/2015,12/31/2015,01/01/2015
+Q9975,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,04/01/2015,12/31/2015,01/01/2014
+Q9979,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,10/01/2015,12/31/2015,01/01/2014
+Q9980,RI025N,R,Treatment,RI,"Injections and Infusions (nononcologic)",025,"Injection - Hyaluronan or Derivative",N,01/01/2016,12/31/2016,01/01/2014
+Q9985,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2017,12/31/2017,01/01/2014
+Q9986,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2017,12/31/2017,01/01/2014
+Q9989,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,07/01/2017,12/31/2017,01/01/2014
+Q9991,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2018,12/31/9999,01/01/2014
+Q9992,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2018,12/31/9999,01/01/2014
+Q9993,RI000N,R,Treatment,RI,"Injections and Infusions (nononcologic)",000,"No RBCS Family",N,07/01/2018,12/31/2018,01/01/2014
+Q9995,RI004N,R,Treatment,RI,"Injections and Infusions (nononcologic)",004,"Injection - Monoclonal Antibodies",N,07/01/2018,12/31/2018,01/01/2014
